@@ -1,6 +1,3 @@
-# Mi-hoja-de-vida
-markdown
-CopiarEditar
 # Mi hoja de vida
 kennan yessid Camacho Lara 
 ky.camachol@gmail.com
